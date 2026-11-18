@@ -1,0 +1,23 @@
+
+
+/* ==================== CSS PREMENNÉ ==================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+:root {
+  /* Farby */
+  --primarna: #2563eb;
+  --primarna-tmava: #1e40af;
+  --akcent: #f97316;
+  --text-tmavy: #1f2937;
+  --text-stredny: #6b7280;
+  --pozadie-biela: #ffffff;
+  --pozadie-svetla: #f9fafb;
+
+  --font-nadpisy: "Montserrat", sans-serif;
+  --font-body:"Open Sans",sans-serif;
+
+  }
+
+  
